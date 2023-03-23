@@ -1,0 +1,2 @@
+This is a nice tool to have `git diff` in the terminal look like the nice looking
+diffs on GitHub/GitLab.
