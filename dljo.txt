@@ -1,0 +1,3 @@
+# Best git alias:
+git config --global alias.graph "log --all --graph --decorate --oneline"
+
